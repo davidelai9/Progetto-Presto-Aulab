@@ -1,0 +1,15 @@
+@import "bootstrap";
+@import "./style.css";
+@import "./homepage.css";
+@import "./login.css";
+@import "./card.css";
+@import "./create_form.css";
+@import "./button.css";
+@import "./detail.css";
+@import "./search.css";
+@import "./pagination.css";
+@import "./test.css";
+@import "./dark-mode.css";
+@import "./toggle_darkmode.css";
+@import "./accordion.css";
+@import "./chi_siamo.css";
